@@ -7,6 +7,7 @@ ruby '2.5.3'
 gem 'rails', '~> 5.2.1'
 # Use Puma as the app server
 
+gem 'rails-controller-testing'
 gem 'bcrypt', '3.1.12'
 
 gem 'puma', '~> 3.11'
