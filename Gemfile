@@ -7,8 +7,12 @@ ruby '2.5.3'
 gem 'rails', '~> 5.2.1'
 # Use Puma as the app server
 
+# CUSTOM GEMS
 gem 'rails-controller-testing'
 gem 'bcrypt', '3.1.12'
+gem 'faker', '1.9.1'
+# gem 'will_paginate'
+# gem 'bootstrap-will_paginate'
 
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
